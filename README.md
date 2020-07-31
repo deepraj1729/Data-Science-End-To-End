@@ -3,13 +3,13 @@ A Respository to get you job ready as a Data Scientist
 
 # Topics:
 - Python Basics
-- Feauture Engineering
+- Feature Engineering
 - Statistics
 - Data Visualization
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Machine Learning (Shallow Learning)
 - Deep Learning
 - Deployment
-- Application Programming Interface (APIs)
+- Application Programming Interfaces (APIs)
 - Data Base Management System (DBMS)
 - Big Data Analysis
