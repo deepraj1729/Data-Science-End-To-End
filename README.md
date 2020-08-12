@@ -21,8 +21,7 @@ A Respository to get you job ready as a Data Scientist
     - Python Programming:
       - [Playlist 1 - By CodeWithHarry](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
     - R Programming:
-        - [Playlist 1 - By Krish Naik](https://www.youtube.com/watch?v=EqRsD3gqeCo&list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL)
-        - [Playlist 2 - By DataCamp](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
+        - [Playlist 1 - By Edureka](https://www.youtube.com/watch?v=eDrhZb2onWY&list=PL9ooVrP1hQOEIUTpxRf4infBJnquwaTME)
 <br>
 
 - Statistics:
